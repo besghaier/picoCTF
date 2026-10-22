@@ -1,6 +1,4 @@
-# Unicode
-
-## Method
+# Method
 
 The challenge provided this code:
 
